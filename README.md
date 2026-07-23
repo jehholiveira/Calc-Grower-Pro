@@ -10,7 +10,7 @@ O objetivo é criar uma ferramenta profissional para:
 - Cálculo automático de ppm
 - Estimativa de EC
 - Manejo de irrigação
-- Diagnóstico de runoff
+- Diagnóstico de runoff 
 - Banco de genéticas
 - Histórico de cultivos
 - Controle de custos
