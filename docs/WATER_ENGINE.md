@@ -1,1 +1,6 @@
-
+- Objetivo.
+- Entradas.
+- Saídas.
+- Fluxo.
+- Regras.
+- Casos especiais.
